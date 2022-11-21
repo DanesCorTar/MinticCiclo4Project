@@ -33,8 +33,16 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 5.2em;
   line-height: 1.1;
+  color: #3c0c4b;
+  font-family:'Franklin Gothic Medium', sans-serif
+}
+h2 {
+  font-size: 2em;
+  line-height: 0.8;
+  color: #CAA2A2;
+  font-family:'Franklin Gothic Medium', sans-serif
 }
 
 button {
@@ -67,4 +75,8 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+img {
+  width: 130px;
+  height: 130px;
 }
